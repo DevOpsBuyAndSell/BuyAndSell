@@ -22,6 +22,10 @@
             android:name=".MainActivity">
 
         </activity>
+        <activity
+            android:name=".Timer">
+
+        </activity>
     </application>
 
 </manifest>
