@@ -9,7 +9,47 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //Hello there!!
-        //Hey there
+    }
+
+    void loginandregister()
+    {
+
+    }
+    void instructions()
+    {
+
+    }
+    void timer()
+    {
+
+    }
+    void health()
+    {
+
+    }
+    void displayitems()
+    {
+
+    }
+    void products_bought()
+    {
+
+    }
+    void products_sold()
+    {
+
+    }
+    void set_price()
+    {
+
+    }
+    void refresh_list()
+    {
+
+    }
+    void total_points()
+    {
+
     }
 }
+
